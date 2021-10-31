@@ -26,4 +26,4 @@ HTML and Scss, using the concept of mobile first.
 
 See in:<a href="https://ds-singleprice.netlify.app/"> Single Price</a>
 
-![project_view](https://github.com/deborasuzuki/Single-Price-Grid/tree/main/images/project_view.png)
+![project_view](https://github.com/deborasuzuki/Single-Price-Grid/blob/project_view.png?raw=true)
